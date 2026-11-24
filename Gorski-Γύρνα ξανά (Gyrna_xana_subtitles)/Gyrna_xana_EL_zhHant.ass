@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: Γύρνα ξανά — Greek / Traditional Chinese
+ScriptType: v4.00+
+PlayResX: 2560
+PlayResY: 1600
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Greek,Noto Serif Medium,58,&H00FFFFFF,&H00FFFFFF,&H00141414,&H80000000,0,0,0,0,100,100,0,0,1,0,0,3,160,160,240,1
+Style: Chinese,Noto Serif HK Medium,62,&H00FFFFFF,&H00FFFFFF,&H00141414,&H80000000,0,0,0,0,100,100,1,0,1,0,0,3,160,160,158,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.88,0:00:11.22,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:00:08.88,0:00:11.22,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
+Dialogue: 0,0:00:11.22,0:00:15.48,Greek,,0,0,0,,{\pos(2432,1438)}Στην παλιά σου φωλιά, βασιλιά
+Dialogue: 0,0:00:11.22,0:00:15.48,Chinese,,0,0,0,,{\pos(2432,1520)}國王啊，回到你往日的家
+Dialogue: 0,0:00:15.60,0:00:18.65,Greek,,0,0,0,,{\pos(2432,1438)}Ο λαός σου εσένα ζητά
+Dialogue: 0,0:00:15.60,0:00:18.65,Chinese,,0,0,0,,{\pos(2432,1520)}你的人民盼望你歸來
+Dialogue: 0,0:00:19.12,0:00:21.80,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:00:19.12,0:00:21.80,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
+Dialogue: 0,0:00:23.32,0:00:26.20,Greek,,0,0,0,,{\pos(2432,1438)}Κι όταν θα ’ρθεις
+Dialogue: 0,0:00:23.32,0:00:26.20,Chinese,,0,0,0,,{\pos(2432,1520)}當你歸來時
+Dialogue: 0,0:00:30.06,0:00:33.56,Greek,,0,0,0,,{\pos(2432,1438)}Εθνοφύλακες θα ’ναι φρουροί
+Dialogue: 0,0:00:30.06,0:00:33.56,Chinese,,0,0,0,,{\pos(2432,1520)}國民衛隊將在此守衛
+Dialogue: 0,0:00:33.84,0:00:36.02,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:00:33.84,0:00:36.02,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
+Dialogue: 0,0:00:36.32,0:00:39.85,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:00:36.32,0:00:39.85,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
+Dialogue: 0,0:01:13.62,0:01:15.84,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:01:13.62,0:01:15.84,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
+Dialogue: 0,0:01:15.84,0:01:19.52,Greek,,0,0,0,,{\pos(2432,1438)}Στην παλιά σου φωλιά, βασιλιά
+Dialogue: 0,0:01:15.84,0:01:19.52,Chinese,,0,0,0,,{\pos(2432,1520)}國王啊，回到你往日的家
+Dialogue: 0,0:01:19.84,0:01:23.30,Greek,,0,0,0,,{\pos(2432,1438)}Ο λαός σου εσένα ζητά
+Dialogue: 0,0:01:19.84,0:01:23.30,Chinese,,0,0,0,,{\pos(2432,1520)}你的人民盼望你歸來
+Dialogue: 0,0:01:23.72,0:01:26.40,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:01:23.72,0:01:26.40,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
+Dialogue: 0,0:01:28.30,0:01:31.00,Greek,,0,0,0,,{\pos(2432,1438)}Κι όταν θα ’ρθεις
+Dialogue: 0,0:01:28.30,0:01:31.00,Chinese,,0,0,0,,{\pos(2432,1520)}當你歸來時
+Dialogue: 0,0:01:34.50,0:01:38.12,Greek,,0,0,0,,{\pos(2432,1438)}Εθνοφύλακες θα ’ναι φρουροί
+Dialogue: 0,0:01:34.50,0:01:38.12,Chinese,,0,0,0,,{\pos(2432,1520)}國民衛隊將在此守衛
+Dialogue: 0,0:01:38.44,0:01:40.80,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:01:38.44,0:01:40.80,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
+Dialogue: 0,0:01:41.32,0:01:44.40,Greek,,0,0,0,,{\pos(2432,1438)}Γύρνα ξανά
+Dialogue: 0,0:01:41.32,0:01:44.40,Chinese,,0,0,0,,{\pos(2432,1520)}再回來吧
